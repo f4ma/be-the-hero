@@ -62,7 +62,7 @@
 
 A Semana OmniStack é um workshop online produzido pela Rocketseat. Esta é a versão 11, onde o Diego Fernandes nos ensina a desenvolver uma aplicação desde o backend até o frontend web e mobile com uma única linguagem, o Javascript. O nome da aplicação desenvolvida é Be The Hero, uma aplicação para cadastro de ONGs e casos cadastrados por elas para que outras pessoas possam ajudar a resolvê-los.
 
-### Tecnologias
+## Tecnologias
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 ### Front-End
 * [ReactJS](https://pt-br.reactjs.org/) + [ReactNative](https://reactnative.dev/)
