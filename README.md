@@ -86,28 +86,27 @@ As rotas para acessar a API estão no arquivo routes.js. Você pode testar as ro
 
 Dependencias e como instalar.
 
-### Prerequisites
+### Pré-requisitos
 ```sh
 git, node, express, knex, sqlite, react, react-native, expo
 ```
 * [Git](https://git-scm.com/downloads)
 * [Node](https://nodejs.org/pt-br/download/)
 
-### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+ ### Installation
+
+Clone o repositório, utilizando git clone ou faça o download do repositório.
+
+Para iniciar o *Backend* do React utilize os comandos:
+
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+
+cd backend
+yarn install
+yarn start
+
+````
 
 
 
@@ -152,3 +151,5 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/77811449-13935d80-7079-11ea-9123-4c8ff90a696b.png
+
+
