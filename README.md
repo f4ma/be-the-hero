@@ -70,8 +70,9 @@ This section should list any major frameworks that you built your project using.
 Api desenvolvida em NodeJS com acesso a banco de dados relacional = SQLite. Esta api faz uso do Knex.
 
 As rotas para acessar a API estão no arquivo routes.js. Você pode testar as rotas antes de usar o frontend com o software Insomnia. Você só precisa baixar e instalar o Insomnia na sua máquina, e acessar as rotas da aplicação.
+
 * [Node](https://nodejs.org/en/)
-* 
+* [Knex](http://knexjs.org/)
 
 
 
