@@ -82,10 +82,9 @@ As rotas para acessar a API estão no arquivo routes.js. Você pode testar as ro
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Começando
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Dependencias e como instalar.
 
 ### Prerequisites
 ```sh
