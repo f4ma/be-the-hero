@@ -30,9 +30,9 @@
   <h3 align="center">Be The Hero</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Herois da vida real!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Descobrir »</strong></a>
     <br />
     <br />
   </p>
@@ -41,19 +41,17 @@
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## Conteudos
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
+* [Sobre o Projeto](#about-the-project)
+  * [Tecnologias](#built-with)
+* [Iniciando](#getting-started)
+  * [Pre-requesitos](#prerequisites)
+  * [Instalação](#installation)
+* [Uso](#usage)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Contribuindo](#contributing)
+* [Agradecimentos](#acknowledgements)
 
 
 
