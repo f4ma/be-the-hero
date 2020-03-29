@@ -90,9 +90,9 @@ Dependencias e como instalar.
 ```sh
 git, node, express, knex, sqlite, react, react-native, expo
 ```
-* git
+* [Git]
  (https://git-scm.com/downloads)
- *node
+ * [Node]
  (https://nodejs.org/pt-br/download/)
 
 ### Installation
