@@ -32,7 +32,7 @@
   <p align="center">
     Herois da vida real!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Descobrir »</strong></a>
+    <a href="https://github.com/f4ma/be-the-hero/blob/master/README.md"><strong>Descobrir »</strong></a>
     <br />
     <br />
   </p>
