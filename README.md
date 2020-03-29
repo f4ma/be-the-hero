@@ -89,11 +89,11 @@ Dependencias e como instalar.
 ### Prerequisites
 ```sh
 git, node, express, knex, sqlite, react, react-native, expo
-
-
 ```
 * git
- https://git-scm.com/downloads
+ (https://git-scm.com/downloads)
+ *node
+ (https://nodejs.org/pt-br/download/)
 
 ### Installation
 
