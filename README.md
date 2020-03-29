@@ -94,7 +94,7 @@ git, node, express, knex, sqlite, react, react-native, expo
 * [Node](https://nodejs.org/pt-br/download/)
 
 
- ### Installation
+ ### Instalação
 
 Clone o repositório, utilizando git clone ou faça o download do repositório.
 
@@ -103,22 +103,13 @@ Para iniciar o *Backend* do React utilize os comandos:
 ```sh
 
 cd backend
-yarn install
-yarn start
+yarn install (ou) npm install
+yarn start 
 
 ````
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-<!-- ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -130,7 +121,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 * [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [Font Awesome](https://fontawesome.com) 
 
 
 
